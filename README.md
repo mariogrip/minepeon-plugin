@@ -1,7 +1,9 @@
-Plugins to Minepeon is made easy with the new api that's added
+Plugins to Minepeon is made easy with the new api that's added 
+
+Example: [https://github.com/mariogrip/minepeon-plugin](https://github.com/mariogrip/minepeon-plugin)
 
 ### How to use Menu api.
-1. make a .xml file inside /plugins/api_menu that look like this:
+1. make a ```[yourappname]_apimenu.xml``` file inside /plugins/api_menu that look like this:
 ```
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <api>
@@ -11,8 +13,8 @@ Plugins to Minepeon is made easy with the new api that's added
 ```
 2. fill in Menu_text and pl_folder
 
-### How make "plugin.yml" file
-1. make a "plugin.yml" (it have to be named "plugin.yml"!) that look like this:
+### How make ```plugin.yml``` file
+1. make a ```plugin.yml``` (it have to be named ```plugin.yml```!) that look like this:
 ```
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <plugin>
@@ -26,4 +28,4 @@ Plugins to Minepeon is made easy with the new api that's added
 
 ### How to make it work with web installer
 1. Compress all files to tar.gz file
-2. see example to see how this tar.gz looks like
+2. see example to see how this tar.gz looks like (example can you find here: [https://github.com/mariogrip/minepeon-plugin](https://github.com/mariogrip/minepeon-plugin))
