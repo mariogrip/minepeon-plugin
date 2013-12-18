@@ -3,7 +3,7 @@ Plugins to Minepeon is made easy with the new api that's added
 Example: [https://github.com/mariogrip/minepeon-plugin](https://github.com/mariogrip/minepeon-plugin)
 
 ### How to use Menu api.
-1. make a ```[yourappname]_apimenu.xml``` file inside /plugins/api_menu that look like this:
+1. make a ```[yourappfoldername]_apimenu.xml``` (foldername is the name on the your plugin's folder) file inside /plugins/api_menu that look like this:
 ```
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <api>
