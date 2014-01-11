@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<plugin>
+<run_sh_file>uninstal.sh</run_sh_file>
+</plugin>

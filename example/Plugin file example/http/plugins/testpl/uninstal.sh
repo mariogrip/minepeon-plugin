@@ -1,0 +1,1 @@
+mkdir /opt/minepeon/http/lol
